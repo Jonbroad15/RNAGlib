@@ -1,3 +1,5 @@
+⚠️ This is not the currently supported official implemenation of rnaglib. Please refer to [this repo](https://github.com/cgoliver/rnaglib) for the latest library.
+
 # RNAGlib
 
 `RNAglib` is a Python package for studying RNA 2.5D structures. Functionality includes automated data loading, analysis,
